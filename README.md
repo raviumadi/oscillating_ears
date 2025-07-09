@@ -66,7 +66,7 @@ analyse_osclating_reflector
 
 ## **Citation**
 
-If you use this work, please cite:
+If you use this work or any part of it, please cite:
 
 Umadi, R. (2025). Oscillating Ears Dynamically Transform Echoes in Constant-Frequency Bats. bioRxiv. [10.1101/2025.06.14.659613](https://doi.org/10.1101/2025.06.14.659613)
 
@@ -75,3 +75,9 @@ This work has been submitted to a journal. Please check back again for updated i
 ## License
 
 This work has been issued under *Creative Commons Attribution-NonCommercial 4.0 International Public License*
+
+## Other Publications
+
+Check my [ResearchGate](https://www.researchgate.net/profile/Ravi-Umadi-3) or [ORCID](https://orcid.org/0000-0003-3867-1769) for a full list of my research work. 
+
+Drop by my personal website [biosonix.io](https://biosonix.io) and drop a message if you would like to collaborate or need assistance with the code and development. 
