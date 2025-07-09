@@ -1,16 +1,16 @@
-# Oscillating Bat Ears -- Experiments, Simulation and Analyses.
+# Oscillating Bat Ears - Experiments, Simulation and Analyses.
 
 This repository contains the code, data, and results associated with the study:
 
 **"Oscillating Ears Dynamically Transform Echoes in Constant-Frequency Bats."**
 
-Preprint on bioRxiv: [10.1101/2025.06.14.659613](10.1101/2025.06.14.659613)
+Preprint on bioRxiv: [10.1101/2025.06.14.659613](https://doi.org/10.1101/2025.06.14.659613)
 
 This work combines computational simulations and physical experiments to test the hypothesis that oscillatory ear movements in constant-frequency (CF) bats dynamically transform echo signals via Doppler effects. Inspired by Perrine’s 1944 description of echo transformations due to receiver motion, the study explores the auditory consequences of bat pinna oscillation through binaural simulations and experimental playback using a sinusoidally oscillating reflector.
 
 ## Quick Start
 
-Run `init()` from the cloned project directory to add app folders to the `MATLAB` search path.
+Run `init()` from the cloned project directory to add all folders to the `MATLAB` search path.
 
 ## Repository Structure
 
@@ -68,7 +68,7 @@ analyse_osclating_reflector
 
 If you use this work, please cite:
 
-Umadi, R. (2025). Oscillating Ears Dynamically Transform Echoes in Constant-Frequency Bats. bioRxiv. [10.1101/2025.06.14.659613](10.1101/2025.06.14.659613)
+Umadi, R. (2025). Oscillating Ears Dynamically Transform Echoes in Constant-Frequency Bats. bioRxiv. [10.1101/2025.06.14.659613](https://doi.org/10.1101/2025.06.14.659613)
 
 This work has been submitted to a journal. Please check back again for updated information regarding citation and DOI. 
 
